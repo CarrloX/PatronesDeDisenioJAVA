@@ -1,0 +1,3 @@
+interface Componente {
+    void operacion();
+}

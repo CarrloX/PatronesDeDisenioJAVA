@@ -1,0 +1,3 @@
+interface Producto {
+    void operacion();
+}

@@ -1,4 +1,4 @@
-<img src="https://refactoring.guru/images/patterns/languages/java.png?id=bcef5252e2f796924d3cf430bc25f5d5">
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://refactoring.guru/images/patterns/languages/java.png?id=bcef5252e2f796924d3cf430bc25f5d5"></a>
 
 
 **Patrón Creacional: Factory Method**

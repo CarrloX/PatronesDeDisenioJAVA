@@ -1,3 +1,6 @@
+<img src="https://refactoring.guru/images/patterns/languages/java.png?id=bcef5252e2f796924d3cf430bc25f5d5">
+
+
 **Patrón Creacional: Factory Method**
 <br>
 <br>
